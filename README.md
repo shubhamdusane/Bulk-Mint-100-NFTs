@@ -1,4 +1,4 @@
-# Bulk-Mint-100+-NFTs
+# Bulk Mint 100+ NFTs
 Collection of smart contracts to mint NFT's on testnet &amp; mainnet  on Ethereum/Polygon
 
 With this scripts you can only mint maximum of a Ethereum/Polygon block can handle ( block gasLimit ).
